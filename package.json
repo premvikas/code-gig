@@ -1,0 +1,19 @@
+{
+  "name": "code-gig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/premvikas/code-gig.git"
+  },
+  "author": "prem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premvikas/code-gig/issues"
+  },
+  "homepage": "https://github.com/premvikas/code-gig#readme"
+}
